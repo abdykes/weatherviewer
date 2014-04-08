@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails temperatureviewer: development" uuid="e4176998-55b7-4d9d-af6e-1c24ce97d0b5">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails temperatureviewer: test" uuid="e86a4024-3eb7-4f6c-ab4c-24c607de2a4f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails temperatureviewer: production" uuid="170c5c83-ec33-409f-a5e7-8466f8bea091">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

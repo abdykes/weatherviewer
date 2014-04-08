@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1754730021">
+    <data-source source="LOCAL" name="Rails temperatureviewer: development" uuid="e4176998-55b7-4d9d-af6e-1c24ce97d0b5">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:temperatureviewer</jdbc-url>
+      <user-name>temperatureviewer</user-name>
+      <user-password>dfdedfcfdfd9dfdedf9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails temperatureviewer: test" uuid="e86a4024-3eb7-4f6c-ab4c-24c607de2a4f">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:temperatureviewer</jdbc-url>
+      <user-name>temperatureviewer</user-name>
+      <user-password>dfdedfcfdfd9dfdedf9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails temperatureviewer: production" uuid="170c5c83-ec33-409f-a5e7-8466f8bea091">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:temperatureviewer</jdbc-url>
+      <user-name>temperatureviewer</user-name>
+      <user-password>dfdedfcfdfd9dfdedf9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
